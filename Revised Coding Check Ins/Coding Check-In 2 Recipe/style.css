@@ -1,0 +1,42 @@
+h1 {
+	font-family: Georgia, Serif;
+	font-size: 5em;
+	font-style: bold;
+	text-align: center;
+	text-shadow: .2em.2em yellow;
+	margin-bottom: 0em;
+	color: red;
+	background-color: orange;
+	
+}
+
+body {
+	font-family: Georgia;
+	font-size: 1.5em;
+	font-style: bold, italic;
+	text-align: left;
+	margin-bottom: 0em;
+	color: white;
+	background-color: red;
+
+}
+
+h2 {
+	font-family: georgia;
+	font-style: bold;
+	text-align: left; 
+	margin-bottom: 0em;
+	color: black;
+
+}
+
+h3 {
+	font-family: georgia;
+	text-align: center; 
+	margin-bottom: 0em;
+	color: white;
+
+}
+
+
+	}
